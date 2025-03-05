@@ -153,7 +153,7 @@ const Footer: React.FC = () => {
             reservados.
           </p>
           <p className="text-white/50 text-sm mt-2 md:mt-0 flex items-center">
-            Feito com <Heart size={14} className="mx-1 text-secondary" /> 
+            Feito com <Heart size={16} className="mx-1 text-secondary" /> 
             <a 
               href="https://github.com/LoselSpt" 
               target="_blank" 
